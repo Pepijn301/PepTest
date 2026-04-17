@@ -1,5 +1,5 @@
 {
-  "name": "atrocore/example-module",
+  "name": "Pepijn301/PepTest",
   "require": {
     "atrocore/core": "~2.1.3"
   },
@@ -9,12 +9,12 @@
     }
   },
   "extra": {
-    "atroId": "ExampleModule",
+    "atroId": "PepTest",
     "name": {
-      "default": "ExampleModule"
+      "default": "PepTest"
     },
     "description": {
-      "default": "Example module."
+      "default": "Pep Test."
     }
   }
 }
