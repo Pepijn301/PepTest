@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace ExampleModule\Entities;
+namespace app\Entities;
 
 use Atro\Core\Templates\Entities\Base;
 

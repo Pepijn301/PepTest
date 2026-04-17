@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace ExampleModule\Services;
+namespace app\Services;
 
 use Atro\Core\Templates\Services\Base;
 

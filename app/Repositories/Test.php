@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace ExampleModule\Repositories;
+namespace app\Repositories;
 
 use Atro\Core\Templates\Repositories\Base;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace ExampleModule\Listeners;
+namespace app\Listeners;
 
 use Atro\Listeners\AbstractListener;
 use Atro\Core\EventManager\Event;

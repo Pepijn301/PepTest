@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace ExampleModule;
+namespace app;
 
 use Atro\Core\ModuleManager\AbstractModule;
 

@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace ExampleModule\Controllers;
+namespace app\Controllers;
 
 use Atro\Core\Templates\Controllers\Base;
 
